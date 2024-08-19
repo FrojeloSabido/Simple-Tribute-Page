@@ -1,0 +1,38 @@
+/* Styling Body */
+body{
+	background-color: #fa950f;
+	margin: 20%;
+}
+
+/* Styling Title */
+#Tp {
+	font-size: 45px;
+	color: white;
+	text-align: center;
+	text-shadow: 5px 5px 10px black;
+	font-size: 7;
+}
+
+/* Styling Image */
+img {
+	display: block;
+    margin: auto;
+    width: 100%;
+}
+
+/* Styling Contents */
+div#contents {
+	background-color: #db7f02;
+	box-shadow: 20px 20px 20px #5c3807;
+	padding: 25px 25px;
+	margin: 11px;
+	margin-top: 50px;
+}
+
+/* Styling Contents Title */
+h1.Cc {
+	font-size: 35px;
+	color: white;
+	text-align: center;
+	text-shadow: 5px 5px 10px black;
+}
